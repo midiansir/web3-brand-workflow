@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web3 Brand Workflow"
+  short_description: "商业级 Web3 品牌叙事、视觉、UI 与发布生产系统"
+  default_prompt: "Use $web3-brand-workflow to turn Web3 project materials into a source-safe brand narrative, launch content, visual prompt system, UI direction, and commercial QA checklist."
+
+policy:
+  allow_implicit_invocation: true
